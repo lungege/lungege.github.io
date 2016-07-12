@@ -1,9 +1,0 @@
----
-layout: post   //不用改变
-title: beautiful  //文章的名称
-tags: qq          //该标签和_post目录下的文件夹名字要一致。
-Description: 我的description
-category: qq      //要和tags值一致
----
-
-我最帅！
